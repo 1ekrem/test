@@ -12,7 +12,7 @@ public class callAll {
 		pyramid.Call(5);
 		System.out.println(" ");
 
-		reverse.String("Ekrem");
+		reverse.String("Oguzhan");
 		System.out.println(" ");
 		
 		count.counting(15);
